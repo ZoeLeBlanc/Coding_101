@@ -3,7 +3,7 @@
 ## First setup your computer:
 In the following sections, we'll go through how to get your computer set up so that you are ready for the Coding 101 workshop. Most of the instructions involve clicking on links to follow instructions and pasting text into your computer. If you get stuck or have any problems, please email me at zgl3n@virginia.edu
 
-1. [Windows](### Windows)
+1. [Windows](###Windows)
 1. [Mac](### Mac)
 
 ### Windows :
