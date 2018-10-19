@@ -14,6 +14,8 @@ What if we wanted to have some order or not allow certain inputs?
 Can we make this code cleaner
 - Functions
 
+DEBUG ASSIGNMENT
+
 FINAL HALLOWEEN EPIC
 - create a new directory
 - create a file for each prompt
