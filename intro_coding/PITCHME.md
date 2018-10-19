@@ -72,12 +72,10 @@ Bletchley Park
 
 ---
 ### So what is code?
-tell the computer how to do what you want it do
-can be anything from saving a file to 
-can be done in multiple different ways
-but needs to be executed -> transformed into a machine language -> becomes software
-we do this with something called compilers
-compilers translate what we've written back into binary and then the computer executes those commands
+- Code tells a computer a set of commands that you want the computer to execute |
+- Code can be written in many different programming languages |
+- Code is translated into binary through a compiler and a computer reads the binary |
+
 ---
 - Who can code?
 YOU!
