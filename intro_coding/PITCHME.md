@@ -10,7 +10,23 @@ http://scholarslab.org/
 Feel free to email me if you have any questions at zgl3n@virginia
 
 Note: a bit about me
-Let's jump in
+---
+# Today's Agenda
+- Start with an introduction to coding and computers |
+- Then jump into writing some code with the command line |
+- Then we'll do an introduction to Python |
+- Followed by more complex ways of writing code |
+- Finally you'll be writing your own scripts in Python |
+
+---
+# Code of Conduct
+- No wrong questions |
+- Ask for help using stickies |
+- Be respectful |
+- Be helpful |
+- Try your best and keep an open mind |
+
+---?image=https://media.giphy.com/media/l3vRfhFD8hJCiP0uQ/giphy.gif
 
 --- 
 # So what is coding?
