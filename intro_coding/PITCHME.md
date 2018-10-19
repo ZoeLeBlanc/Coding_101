@@ -1,6 +1,7 @@
 @title[Welcome to Coding 101]
 ## Welcome to Coding 101
 *Learning the FUNdamentals of coding*
+
 ![https://media.giphy.com/media/FOrOxmsZinjwI/giphy.gif](https://media.giphy.com/media/FOrOxmsZinjwI/giphy.gif)
 --- 
 ##### Hi! I'm Zoe
