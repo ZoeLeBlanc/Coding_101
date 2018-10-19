@@ -1,4 +1,5 @@
-1. [TEst](# Command Line Cheatsheet for Windows)
+1. [Command Line Cheatsheet For Windows](#command-line-cheatsheet-for-windows)
+2. [Command Line Cheatsheet For Mac](#command-line-cheatsheet-for-macos)
 
 # Command Line Cheatsheet for Windows
 
