@@ -1,10 +1,7 @@
 @title[Welcome to Coding 101]
 ## Welcome to Coding 101
 *Learning the FUNdamentals of coding*
-<<<<<<< HEAD
-=======
 
->>>>>>> 9113e39c2024169207913050e78f2ce10fa0810b
 ![https://media.giphy.com/media/FOrOxmsZinjwI/giphy.gif](https://media.giphy.com/media/FOrOxmsZinjwI/giphy.gif)
 --- 
 ##### Hi! I'm Zoe
