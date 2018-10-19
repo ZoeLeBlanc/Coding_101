@@ -54,7 +54,7 @@ Note: series of clocks/switches doing millions of computation. But how does it k
 
 ### Brief History of Computers
 
-![assets/1.png](../intro_coding/assets/1.png)
+---?image=intro_coding/assets/1.png
 brief history
 computing didn't always look like your phone
 abacus
