@@ -55,20 +55,12 @@ Note: series of clocks/switches doing millions of computation. But how does it k
 ### Brief History of Computers
 
 ![computers](intro_coding/assets/1.png)
-
+Note:brief history computing didn't always look like your phone abacus WWII enigma machine punch cards a lot has changed but a lot hasn't still fundamentally about 
 ---
-brief history
-computing didn't always look like your phone
-abacus
-WWII enigma machine
-punch cards
-a lot has changed but a lot hasn't
-still fundamentally about 
+
 ### Women and Computers
-- women have been doing computing for a long time
-- Ada Lovelace
-Grace Hopper
-Bletchley Park
+
+![computers_woman](intro_coding/assets/2.png)
 
 ---
 ### So what is code?
