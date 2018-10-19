@@ -1,6 +1,10 @@
 @title[Welcome to Coding 101]
 ## Welcome to Coding 101
 *Learning the FUNdamentals of coding*
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9113e39c2024169207913050e78f2ce10fa0810b
 ![https://media.giphy.com/media/FOrOxmsZinjwI/giphy.gif](https://media.giphy.com/media/FOrOxmsZinjwI/giphy.gif)
 --- 
 ##### Hi! I'm Zoe
@@ -9,7 +13,23 @@ http://scholarslab.org/
 Feel free to email me if you have any questions at zgl3n@virginia
 
 Note: a bit about me
-Let's jump in
+---
+# Today's Agenda
+- Start with an introduction to coding and computers |
+- Then jump into writing some code with the command line |
+- Then we'll do an introduction to Python |
+- Followed by more complex ways of writing code |
+- Finally you'll be writing your own scripts in Python |
+
+---
+# Code of Conduct
+- No wrong questions |
+- Ask for help using stickies |
+- Be respectful |
+- Be helpful |
+- Try your best and keep an open mind |
+
+---?image=https://media.giphy.com/media/l3vRfhFD8hJCiP0uQ/giphy.gif
 
 --- 
 # So what is coding?
@@ -22,7 +42,7 @@ Let's jump in
 
 [Paul Ford **What is Code?**](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin)
 
-Note: series of clocks/switches doing millions of computation. But how does it know what to do? We tell it with inputs! like a keyboard
+Note: series of clocks/switches doing millions of computation. But how does it know what to do? We tell it with inputs! like a keyboard scroll down to keyboard visualization. But how does what we input turn into something the computer understands?
 
 
 ---?image=https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif
@@ -30,11 +50,14 @@ Note: series of clocks/switches doing millions of computation. But how does it k
 ---
 ### Binary 
 # 0 & 1
-
-["Bits, Bytes, Building With Binary" by Vaidehi Joshi, BaseCS Blog](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa)
+- Way of counting, just like our way of counting that uses the digits 0-9 |
+- Turns our commands into machine readable language | 
+- ["Bits, Bytes, Building With Binary" by Vaidehi Joshi, BaseCS Blog](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa) |
 ---
 
 ### Brief History of Computers
+
+![../assets/1.png](../assets/1.png)
 brief history
 computing didn't always look like your phone
 abacus
