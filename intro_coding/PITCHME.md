@@ -69,7 +69,6 @@ Note:brief history computing didn't always look like your phone abacus WWII enig
 - Code is translated into binary through a compiler and a computer reads the binary |
 
 ---
-- Who can code?
-YOU!
-no literally you can code! and after today you'll officially be a coder
-all of coding is creating logic and getting a computer to execute it -> sounds simple but feels magical
+### Who can code?
+# YOU!
+Note:  no literally you can code! and after today you'll officially be a coder .all of coding is creating logic and getting a computer to execute it -> sounds simple but feels magical
