@@ -71,4 +71,5 @@ Note:brief history computing didn't always look like your phone abacus WWII enig
 ---
 ### Who can code?
 # YOU!
+![https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif](https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif)
 Note:  no literally you can code! and after today you'll officially be a coder .all of coding is creating logic and getting a computer to execute it -> sounds simple but feels magical
