@@ -29,11 +29,7 @@ sudo apt-get install build-essential libssl-dev libffi-dev python3-dev
 ```
 * Then update pip:
 ```sh
-pip install --upgrade pip
-```
-* Then install pipenv with this command:
-```sh
-pip install --user pipenv
+pip3 install --upgrade pip
 ```
 #### Text Editor
 * Finally, install Visual Studio Code for your computer (Select the Download for Mac or download for windows)[Find VS Code here](https://code.visualstudio.com/)
@@ -67,10 +63,7 @@ brew install python
 ```sh
 pip3 install --upgrade pip
 ```
-* Then install pipenv:
-```sh
-pip3 install --user pipenv
-```
+
 #### Text Editor
 * Finally, install Visual Studio Code for your computer (Select the Download for Mac or download for windows)[Find VS Code here](https://code.visualstudio.com/)
 
