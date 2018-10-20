@@ -159,6 +159,22 @@ names[1:3]
 names[8]
 ```
 
+Now what if we wanted to add a Hogwarts classes to our list? We could create a new list that contained the classes and then use concatenation to join them.
+```python3
+classes = ['Defense Against The Dark Arts', 'Potions']
+names + classes
+```
+We can see in the interpreter that we now have a list containing both lists, but what happens if you type names again?
+![https://media.giphy.com/media/80TEu4wOBdPLG/giphy.gif](https://media.giphy.com/media/80TEu4wOBdPLG/giphy.gif)
+
+Remember to store values we need *assign* them to variables.
+```python3
+classes = ['Defense Against The Dark Arts', 'Potions']
+new_list =names + classes
+```
+
+We can also add items and remove them from the list. Let's take a look at the python documentation to learn more [https://docs.python.org/3/tutorial/datastructures.html](https://docs.python.org/3/tutorial/datastructures.html)
+
 
 What if we wanted to store information in a way that let us know what was a name or an age variable?
 
@@ -190,17 +206,45 @@ hogwarts = {
         'name':'Hermione'
     },
     'student_2': {
-        'name':'Harry'
+        'name':'Harry',
+        'age':19
     },
 }
 ```
 Now we can get Hermione's name if we type `hogwarts['student_1']['name']`. What's happening here is that we're using the keys to find our value that's nested inside a dictionary within a dictionary.
 
-You can also 
+You can also get even crazier and store lists in dictionaries:
+```python
+hogwarts = {
+    'student_1': {
+        'name':'Hermione',
+        'classes':['Defense Against The Dark Arts', 'Potions']
+    },
+    'student_2': {
+        'name':'Harry',
+        'age':19
+    },
+}
+```
+Notice that the list is a value of a key, in this case `classes`. You can only insert a list into a dictionary as a value.
 
+You can also put dictionaries inside of lists:
+```python
+students_hogwarts = [
+    {
+        'name':'Hermione',
+        'classes':['Defense Against The Dark Arts', 'Potions']
+    },{
+        'name':'Harry',
+        'age':19
+    }
+]
+```
+Notice that we now don't have keys for our top-most dictionaries. In lists, items don't have keys so each of your dictionaries is without an explicit key.
 
-SMALL ASSIGNMENT
-
-- how to look for help
+Python defaults to indexing each dictionary with numbers, just like in our list of strings. So to get the first value, you would type:
+```python
+students_hogwarts[0]
+```
 
 
