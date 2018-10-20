@@ -7,7 +7,8 @@
 - Used for a wide range of programming, from making web apps to data analysis
 
 **Why Python?**
-'Python is almost always the second best language for any prblem'
+
+'Python is almost always the second best language for any problem'
 
 ### Open your terminal and check your python version
 Type:
@@ -44,7 +45,7 @@ three = 'three'
 ```
 
 ### Data Types
-Strings are just one type of data type accepted in Python. 
+Strings are just one of many data types accepted in Python. 
 
 There's also numbers, called *integers*. We can take our variables that we assigned before and assign them their actual numbers.
 ```python
@@ -167,7 +168,7 @@ names + classes
 We can see in the interpreter that we now have a list containing both lists, but what happens if you type names again?
 ![https://media.giphy.com/media/80TEu4wOBdPLG/giphy.gif](https://media.giphy.com/media/80TEu4wOBdPLG/giphy.gif)
 
-Remember to store values we need *assign* them to variables.
+Remember to store values, we need to *assign* them to variables.
 ```python3
 classes = ['Defense Against The Dark Arts', 'Potions']
 new_list =names + classes
@@ -182,7 +183,7 @@ Try out the methods in the documentation for manipulating lists
 2. Try reversing and sorting our `new_list`, what happens? Try doing the same on `classes`
 ```
 
-Lists are great. But what if we wanted to store information not just in a sequence, but in a way that let us know more information about the value?
+Lists are great. But what if we wanted to store information not just in a sequence, but in a way that let's us keep certain values together?
 
 #### Dictionaries
 We can use a *dictionary*, which is a collection of key/value pairs to store this information. Keys and values are always separated by a colon.
@@ -201,6 +202,7 @@ What happens if we add another name to the dictionary?
 witch = { 'name': 'Hermione', 'age': 18, 'name': 'Harry'}
 ```
 Where's hermione??
+
 ![https://media.giphy.com/media/OUwzqE4ZOk5Bm/giphy.gif](https://media.giphy.com/media/OUwzqE4ZOk5Bm/giphy.gif)
 
 Hermione was overwritten in our dictionary because our new value shared the same key. In a dictionary, keys must be unique!
@@ -228,7 +230,7 @@ Just like lists there are many ways to manipulate dictionaries
 
 #### Quick Assignment
 ```
-Look and try out the methods for manipulating dictionaries.
+Try out the methods for manipulating dictionaries.
 1. Remove Harry's age from the `student_2` dictionary
 2. Get all the keys for the `hogwarts` dictionary
 3. Get all the values for the `student_1` dictionary
@@ -269,6 +271,7 @@ Python defaults to indexing each dictionary with numbers, just like in our list 
 ```python
 students_hogwarts[0]
 ```
+### Any questions?
 
 ### Second Group Exercise
 [TRICK OR TREAT PYTHON](python_exercise.md)
