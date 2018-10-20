@@ -65,11 +65,11 @@ brew install python
 ```
 * Then update pip with this command:
 ```sh
-pip install --upgrade pip
+pip3 install --upgrade pip
 ```
 * Then install pipenv:
 ```sh
-pip install --user pipenv
+pip3 install --user pipenv
 ```
 #### Text Editor
 * Finally, install Visual Studio Code for your computer (Select the Download for Mac or download for windows)[Find VS Code here](https://code.visualstudio.com/)
