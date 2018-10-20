@@ -173,10 +173,16 @@ classes = ['Defense Against The Dark Arts', 'Potions']
 new_list =names + classes
 ```
 
-We can also add items and remove them from the list. Let's take a look at the python documentation to learn more [https://docs.python.org/3/tutorial/datastructures.html](https://docs.python.org/3/tutorial/datastructures.html)
+We can also add items and remove them from the list. Let's take a look at some of these methods [https://www.w3schools.com/python/python_ref_list.asp](https://www.w3schools.com/python/python_ref_list.asp). You can read more about them in the python documentation [https://docs.python.org/3/tutorial/datastructures.html](https://docs.python.org/3/tutorial/datastructures.html)
 
+#### Quick Assignment
+```
+Try out the methods in the documentation for manipulating lists
+1. Find a way to add 'Dumbledore' to the end of our `new_list` (hint: there's multiple ways to do this)
+2. Try reversing and sorting our `new_list`, what happens? Try doing the same on `classes`
+```
 
-What if we wanted to store information in a way that let us know what was a name or an age variable?
+Lists are great. But what if we wanted to store information not just in a sequence, but in a way that let us know more information about the value?
 
 #### Dictionaries
 We can use a *dictionary*, which is a collection of key/value pairs to store this information. Keys and values are always separated by a colon.
@@ -213,6 +219,23 @@ hogwarts = {
 ```
 Now we can get Hermione's name if we type `hogwarts['student_1']['name']`. What's happening here is that we're using the keys to find our value that's nested inside a dictionary within a dictionary.
 
+We can add Hermione's age by using a similar notation:
+```python3
+hogwarts['student_1']['age'] = 18
+```
+Just like lists there are many ways to manipulate dictionaries
+[https://www.w3schools.com/python/python_ref_dictionary.asp](https://www.w3schools.com/python/python_ref_dictionary.asp)
+
+#### Quick Assignment
+```
+Look and try out the methods for manipulating dictionaries.
+1. Remove Harry's age from the `student_2` dictionary
+2. Get all the keys for the `hogwarts` dictionary
+3. Get all the values for the `student_1` dictionary
+```
+
+[https://media.giphy.com/media/F6MFG8PHtQ2qs/giphy.gif](https://media.giphy.com/media/F6MFG8PHtQ2qs/giphy.gif)
+
 You can also get even crazier and store lists in dictionaries:
 ```python
 hogwarts = {
@@ -247,4 +270,7 @@ Python defaults to indexing each dictionary with numbers, just like in our list 
 students_hogwarts[0]
 ```
 
+### Second Group Exercise
+[TRICK OR TREAT PYTHON](python_exercise.md)
 
+![https://media.giphy.com/media/uoPf8Z0vGcTOE/giphy.gif](https://media.giphy.com/media/uoPf8Z0vGcTOE/giphy.gif)
