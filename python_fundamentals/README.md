@@ -101,16 +101,37 @@ You've seen built-in methods before for both dictionaries and lists. But they ex
 #### Built-In Methods for Strings
 
 1. Split()
-
+The **split** method lets us split up a string and turn it into a list. In first_script.py, add the following:
+```python
+witches = 'Double, double toil and trouble Fire burn and caldron bubble.'
+print(witches.split())
+print(withces.split(','))
+```
 
 1. Join()
+The **join** method lets us take a list and join all the values together.
+```python
+all_costumes = ' '.join(halloween_costumes)
+print(all_costumes) 
+```
 
 1. Replace()
+The **replace** method lets us find a string and replace it with another string. You can also specify how many times you want to replace a string.
+```python
+edited_witches = witches.replace('double', 'bubble') 
+print(edited_witches)
+edited_witches = witches.replace('and', 'BOOM', 1) 
+print(edited_witches)
+```
 
 1. Upper() and Lower()
+The **upper** and **lower** methods return the entire string capitalized or lowercased respectively.
+```python
+print(witches.upper(), witches.lower())
+```
 
-1. Reverse()
-https://www.w3schools.com/python/python_ref_string.asp
+You can find more information about string methods here
+[https://www.w3schools.com/python/python_ref_string.asp](https://www.w3schools.com/python/python_ref_string.asp)
 
 
 ### Third Group Assignment
