@@ -9,7 +9,8 @@
 - [Introduction to Command Line](intro_command_line/README.md)
 - [Introduction to Python](intro_python/README.md)
 - [Python FUNdamentals](python_fundamentals/README.md)
+
 Bonus: (if we have time)
-- [Pythonista](pythonista/README.md)
+- [Pythonista](pythonistas/README.md)
 
 ![https://media.giphy.com/media/l3vQWwsj7Ww40gAyQ/giphy.gif](https://media.giphy.com/media/l3vQWwsj7Ww40gAyQ/giphy.gif)
